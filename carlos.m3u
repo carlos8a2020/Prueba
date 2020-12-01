@@ -1,0 +1,29 @@
+#EXTM3U
+
+
+#EXTINF:-1 , Univision
+https://srregio.net/Sr_Regio151120/dip.php?c=35&f.m3u8
+#EXTINF:-1 , Adn40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8?checkedby:hlscat.com
+#EXTINF:-1 , History Channel
+http://latvonlive.com:33612/Lulu/1234/598?checkedby:hlscat.com
+#EXTINF:-1 , TDN
+http://admin-mainpanel.club:8080/marcos/marcos/27679?checkedby:hlscat.com
+#EXTINF:-1 , Cooking Channel
+http://rv.therevenge.co:80/691616211141151/691616211141151/81062?checkedby:hlscat.com
+#EXTINF:-1 , Cartoon Network
+http://latvonlive.com:33612/Lulu/1234/39?checkedby:hlscat.com
+#EXTINF:-1 , Food Network
+http://rv.therevenge.co:80/691616211141151/691616211141151/81081?checkedby:hlscat.com
+#EXTINF:-1, Babytv
+http://185.71.64.167:80/7654321/1234567/79224
+#EXTINF:-1, Canal 6
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
+#EXTINF:-1, Milenio Tv
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, Cine Sky 1
+http://45.224.115.214:80/angelo/angelo/535
+#EXTINF:-1, Discovery Channel
+http://45.224.115.214:80/angelo/angelo/438
+#EXTINF:-1, Discovery Kids
+http://45.224.115.214:80/angelo/angelo/441
